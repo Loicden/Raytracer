@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Loïc\Documents\Centrale\Semestre 9\Informatique Graphique\Raytracer\Raytracer\main.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Loïc\Documents\Centrale\Semestre 9\Informatique Graphique\Raytracer\Raytracer\main.cpp(233,51): warning C4244: '=': conversion from 'const _Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned char
+          ]
+C:\Users\Loïc\Documents\Centrale\Semestre 9\Informatique Graphique\Raytracer\Raytracer\main.cpp(234,51): warning C4244: '=': conversion from 'const _Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned char
+          ]
+C:\Users\Loïc\Documents\Centrale\Semestre 9\Informatique Graphique\Raytracer\Raytracer\main.cpp(235,51): warning C4244: '=': conversion from 'const _Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=unsigned char
+          ]
+  Raytracer.vcxproj -> C:\Users\Loïc\Documents\Centrale\Semestre 9\Informatique Graphique\Raytracer\Debug\Raytracer.exe
